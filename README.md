@@ -4,7 +4,7 @@ In this study, we propose the scDGG method to obtain dynamic gene graphs from mu
 
 ## Architecture
 
-![Architecture](./Figure_1.jpg)
+![Architecture](./overview.jpg)
 
 ## Install
 
